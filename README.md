@@ -1,4 +1,6 @@
 # AgentForge
+<img width="932" height="503" alt="image" src="https://github.com/user-attachments/assets/e1a83fda-9d3d-47d6-84f7-253c2692b9a4" />
+
 
 > New here? Follow [SETUP.md](SETUP.md) to get it running. Engineering notes (review, architecture, testing, operations) are in [docs/ENGINEERING.md](docs/ENGINEERING.md).
 
